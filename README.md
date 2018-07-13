@@ -9,4 +9,9 @@ Goals for this project and progression:
    c) third section should be the solution of the program. 
    d) fourth section should be a description of the file if there is one.
 2) Submit the solution to the reddit post using the reddit api.
+
+How to use:
+	run reddit_access.py from the command line like so:
+	$ python reddit_access.py
+	then the program will take care of the rest!
  
