@@ -13,5 +13,5 @@ Goals for this project and progression:
 How to use:
 	run reddit_access.py from the command line like so:
 	$ python reddit_access.py
-	then the program will take care of the rest!
+	then the program will take care of the rest! Pay attention though, as it will ask for some details.
  
