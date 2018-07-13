@@ -11,7 +11,7 @@ Goals for this project and progression:
 2) Submit the solution to the reddit post using the reddit api.
 
 How to use:
-	\nrun reddit_access.py from the command line like so:
-	\n$ python reddit_access.py
-	\nthen the program will take care of the rest! Pay attention though, as it will ask for some details.
+	run reddit_access.py from the command line like so:
+	$ python reddit_access.py
+	then the program will take care of the rest! Pay attention though, as it will ask for some details.
  
